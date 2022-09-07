@@ -1,0 +1,24 @@
+C:\Users\mohsin nawaz\source\repos\register\obj\Debug\register.csprojAssemblyReference.cache
+C:\Users\mohsin nawaz\source\repos\register\obj\Debug\register.registration_form.resources
+C:\Users\mohsin nawaz\source\repos\register\obj\Debug\register.Properties.Resources.resources
+C:\Users\mohsin nawaz\source\repos\register\obj\Debug\register.csproj.GenerateResource.cache
+C:\Users\mohsin nawaz\source\repos\register\obj\Debug\register.csproj.CoreCompileInputs.cache
+C:\Users\mohsin nawaz\source\repos\register\bin\Debug\register.exe.config
+C:\Users\mohsin nawaz\source\repos\register\bin\Debug\register.exe
+C:\Users\mohsin nawaz\source\repos\register\bin\Debug\register.pdb
+C:\Users\mohsin nawaz\source\repos\register\obj\Debug\register.exe
+C:\Users\mohsin nawaz\source\repos\register\obj\Debug\register.pdb
+C:\Users\mohsin nawaz\source\repos\register\obj\Debug\register.login.resources
+C:\Users\mohsin nawaz\source\repos\register\obj\Debug\register.crud.resources
+D:\01 KICSIT\Mohsin\BSCS-5\Visual Programing\assignment 2\assignment 2 vp\register\bin\Debug\register.exe.config
+D:\01 KICSIT\Mohsin\BSCS-5\Visual Programing\assignment 2\assignment 2 vp\register\bin\Debug\register.exe
+D:\01 KICSIT\Mohsin\BSCS-5\Visual Programing\assignment 2\assignment 2 vp\register\bin\Debug\register.pdb
+D:\01 KICSIT\Mohsin\BSCS-5\Visual Programing\assignment 2\assignment 2 vp\register\obj\Debug\register.csprojAssemblyReference.cache
+D:\01 KICSIT\Mohsin\BSCS-5\Visual Programing\assignment 2\assignment 2 vp\register\obj\Debug\register.crud.resources
+D:\01 KICSIT\Mohsin\BSCS-5\Visual Programing\assignment 2\assignment 2 vp\register\obj\Debug\register.registration_form.resources
+D:\01 KICSIT\Mohsin\BSCS-5\Visual Programing\assignment 2\assignment 2 vp\register\obj\Debug\register.login.resources
+D:\01 KICSIT\Mohsin\BSCS-5\Visual Programing\assignment 2\assignment 2 vp\register\obj\Debug\register.Properties.Resources.resources
+D:\01 KICSIT\Mohsin\BSCS-5\Visual Programing\assignment 2\assignment 2 vp\register\obj\Debug\register.csproj.GenerateResource.cache
+D:\01 KICSIT\Mohsin\BSCS-5\Visual Programing\assignment 2\assignment 2 vp\register\obj\Debug\register.csproj.CoreCompileInputs.cache
+D:\01 KICSIT\Mohsin\BSCS-5\Visual Programing\assignment 2\assignment 2 vp\register\obj\Debug\register.exe
+D:\01 KICSIT\Mohsin\BSCS-5\Visual Programing\assignment 2\assignment 2 vp\register\obj\Debug\register.pdb
